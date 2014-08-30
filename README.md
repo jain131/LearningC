@@ -1,0 +1,4 @@
+LearningC
+=========
+
+Setting up GIT
